@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-hello
-=======
+Test de branch
 Nouvelle ligne de texte modifiée
 Senegal champion du mondeProbabilite pour que le Senegal soit champion
->>>>>>> bb3f9235c9217a062cac25117836b69e6ebd1dc8
+Hello
